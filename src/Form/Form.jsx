@@ -292,6 +292,7 @@ const Form = () => {
           <button className={style.buttonComponent} onClick = {()=>getData(Number(amoung))}>Скачать данные</button>
         </div>
       </div>
+      <p className={style.copyright}>ИС Умная столовая™</p>
     </div>
   );
 };

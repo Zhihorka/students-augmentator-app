@@ -45,3 +45,9 @@
 .top{
     color: rgb(34, 4, 204);
 }
+
+.copyright{
+    position: absolute;
+    bottom: 0;
+    color: rgb(111, 95, 202);
+}
