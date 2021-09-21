@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/students-augmentator-app/static/css/main.96caa6d4.chunk.css",
+    "main.js": "/students-augmentator-app/static/js/main.3032b8e7.chunk.js",
+    "main.js.map": "/students-augmentator-app/static/js/main.3032b8e7.chunk.js.map",
+    "runtime-main.js": "/students-augmentator-app/static/js/runtime-main.b72dafa0.js",
+    "runtime-main.js.map": "/students-augmentator-app/static/js/runtime-main.b72dafa0.js.map",
+    "static/js/2.66d694e4.chunk.js": "/students-augmentator-app/static/js/2.66d694e4.chunk.js",
+    "static/js/2.66d694e4.chunk.js.map": "/students-augmentator-app/static/js/2.66d694e4.chunk.js.map",
+    "static/js/3.11bce8c4.chunk.js": "/students-augmentator-app/static/js/3.11bce8c4.chunk.js",
+    "static/js/3.11bce8c4.chunk.js.map": "/students-augmentator-app/static/js/3.11bce8c4.chunk.js.map",
+    "index.html": "/students-augmentator-app/index.html",
+    "static/css/main.96caa6d4.chunk.css.map": "/students-augmentator-app/static/css/main.96caa6d4.chunk.css.map",
+    "static/js/2.66d694e4.chunk.js.LICENSE.txt": "/students-augmentator-app/static/js/2.66d694e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b72dafa0.js",
+    "static/js/2.66d694e4.chunk.js",
+    "static/css/main.96caa6d4.chunk.css",
+    "static/js/main.3032b8e7.chunk.js"
+  ]
+}
